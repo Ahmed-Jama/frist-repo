@@ -1,0 +1,15 @@
+*{
+    cursor: pointer;
+
+    /* p5 */
+    padding: 5px;
+
+    /* m50 */
+    margin: 50px;
+
+    
+}
+
+li a {
+    color: black;
+}
